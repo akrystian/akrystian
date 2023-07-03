@@ -1,16 +1,23 @@
-### Hi there 👋
+# Software engineering enthusiast. 
 
-<!--
-**akrystian/akrystian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills:
+- I have a brain which can annalise and reason. 
+- I am eager to learn new approaches and share my knowledge. 
+- I understand and uses software engineering principles.
 
-Here are some ideas to get you started:
+### Experience:
+- I create and maintain services used by millions of users the biggest e-commerce platform in Poland.
+- I cooperate with many teams and build lasting relationships. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Presentations:
+- Jugademy 2022 - Wprowadzenie do Event Stormingu i DDD
+- Jugademy 2021 - Wprowadzenie do Cassandry
+
+### Interests: 
+- Test Driven Development
+- Domain Driven Design
+- Event Storming
+- Hexagonal Architecture
+- NoSQL
+
+ 
